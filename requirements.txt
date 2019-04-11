@@ -1,0 +1,5 @@
+pytest
+pytest-benchmark
+numpy
+cython
+pybind11
