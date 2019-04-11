@@ -2,6 +2,12 @@
 
 ![Rust](https://www.rust-lang.org/logos/rust-logo-blk.svg)
 
+# https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html
+# https://thomasnyberg.com/cpp_extension_modules.html
+# https://medium.com/@everestphyl/quick-guide-on-c-extensions-for-python-b931e641d4e6
+# https://pybind11.readthedocs.io/en/master/basics.html
+# https://github.com/pybind/python_example
+
 ## What is Rust?
 
 **Rust** is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. 
